@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html css javascript
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me @sanathan_(twitter)
+- 📫 How to reach me @Sanathan_(twitter)
 
 <!---
 sanathan-git/sanathan-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
