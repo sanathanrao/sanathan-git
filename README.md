@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanathan-git
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html css javascript
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on twitter
 - 📫 How to reach me @Sanathan_(twitter)
 
 <!---
