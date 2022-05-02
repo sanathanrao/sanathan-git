@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm sanathan</h1>
 <h3 align="center">I'm web developer makes web development easy for you.</h3>
 
-<p align="left"> <a href="https://twitter.com/sanathan_" target="blank"><img src="https://img.shields.io/twitter/follow/sanathan_?logo=twitter&style=for-the-badge" alt="sanathan_" /></a> </p>
-
 - 🌱 I’m currently learning **html,css,javascript**
 
 - 💬 Ask me about **web development**
