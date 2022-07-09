@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building projects <br>🤝 I love to connect with many folks<br>🌱 I’m currently learning JavaScript & React<br>💬 Ask me about web development<br>⚡ Fun fact : 🤣😂
+🔭 I’m currently working on frontend stack <br>🤝 I love to collaborate on Frontend Development <br>🌱 I’m currently learning JavaScript & React<br>💬 Ask me about web development<br>⚡ Fun fact : I love cats
 
 
 ## 🌐 Socials:
