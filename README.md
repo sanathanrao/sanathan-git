@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanathan-git&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanathan-git&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🦖 Digital badges, but actually cool
+[![@sanathan's Holopin board](https://holopin.me/sanathan)](https://holopin.io/@sanathan)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanathan-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
