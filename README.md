@@ -1,7 +1,7 @@
 ## Hey! 👋 I'm Sanathan
 
 # 💫 About Me:
-🔭 I’m currently working on frontend stack <br>🤝 I love to collaborate on web Development <br>🌱 I’m currently learing JavaScript & React<br>
+🔭 I’m currently working on frontend stack <br>🤝 I love to collaborate on web Development <br>🌱 I’m currently learing JavaScript and Frameworks<br>
 
 # 🌐 Socials:
 <a href="https://www.dev.to/sanathan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" padding="20" /></a> 
